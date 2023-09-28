@@ -1,0 +1,17 @@
+.input-container{
+   
+    margin: 10px;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+label{
+    background-color: blue;
+}
+
+button{
+    background-color: brown;
+    font-family:'Courier New', Courier, monospace ;
+    border-color: blueviolet;
+
+}
